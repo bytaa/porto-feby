@@ -127,7 +127,8 @@ export const listProyek = [
     nama: "Personal Web Porto",
     desk: "A personal portfolio website featuring an about section, tools I use, and selected projects I’ve worked on.",
     tools: ["Vite", "ReactJS", "Tailwind CSS"],
-    link: "https://bytaa.github.io / pemira - vi - pku",
+    link: "porto-feby.vercel.app",
     dad: "400",
   },
 ];
+
