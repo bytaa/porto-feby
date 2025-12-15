@@ -98,15 +98,15 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.webp";
-import Proyek2 from "/assets/proyek/proyek2.webp";
-import Proyek3 from "/assets/proyek/proyek3.webp";
-
+import Proyek1 from "/assets/proyek/Proyek1.webp";
+import Proyek2 from "/assets/proyek/Proyek2.webp";
+import Proyek3 from "/assets/proyek/Proyek3.webp";
+import Proyek4 from "/assets/proyek/Proyek4.webp";
 export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website PEMIRA VI PKU IPB University",
+    nama: "PEMIRA VI PKU IPB University",
     desk: "This website serves as a platform to provide information and easy access to PEMIRA (Student General Election) PKU, held to elect the President and Vice President of the PKU IPB Executive Student Organization for the 2025/2026 term.",
     tools: ["HTML", "CSS"],
     link: "https://bytaa.github.io/pemira-vi-pku",
@@ -127,8 +127,16 @@ export const listProyek = [
     nama: "Personal Web Porto",
     desk: "A personal portfolio website featuring an about section, tools I use, and selected projects I’ve worked on.",
     tools: ["Vite", "ReactJS", "Tailwind CSS"],
-    link: "porto-feby.vercel.app",
+    link: "https://porto-feby.vercel.app",
+    dad: "400",
+  },
+  {
+    id: 4,
+    gambar: Proyek4,
+    nama: "Simple Calculator",
+    desk: "This digital calculator, developed using pure HTML, CSS, and JavaScript to perform basic arithmetic operations (+, -, *, /, %) with a clean UI, serves as a portfolio project demonstrating Web Development and programming logic skills for the Research and Development (R&D) Division of Ormawa Eksekutif PKU.",
+    tools: ["HTML", "CSS", "JS"],
+    link: "https://bytaa.github.io/calcu-risbang",
     dad: "400",
   },
 ];
-
