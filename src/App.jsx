@@ -27,7 +27,7 @@ function App() {
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
-              href="https://ipb.link/cv-feby-tebaru"
+              href="https://ipb.link/portofolio-risbang-feby"
               className="bg-zinc-800 p-4 rounded-2xl hover:bg-pink-900"
             >
               Download CV
