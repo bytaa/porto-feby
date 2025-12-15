@@ -98,10 +98,10 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/Proyek1.webp";
-import Proyek2 from "/assets/proyek/Proyek2.webp";
-import Proyek3 from "/assets/proyek/Proyek3.webp";
-import Proyek4 from "/assets/proyek/Proyek4.webp";
+import Proyek1 from "./assets/proyek/Proyek1.webp";
+import Proyek2 from "./assets/proyek/Proyek2.webp";
+import Proyek3 from "./assets/proyek/Proyek3.webp";
+import Proyek4 from "./assets/proyek/Proyek4.webp";
 export const listProyek = [
   {
     id: 1,
@@ -140,3 +140,4 @@ export const listProyek = [
     dad: "400",
   },
 ];
+
